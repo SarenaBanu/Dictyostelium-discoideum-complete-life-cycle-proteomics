@@ -1,5 +1,6 @@
 # Dictyostelium-discoideum-complete-life-cycle-proteomics
 The Proteome of Dictyostelium discoideum Across Its Entire Life Cycle Reveals Sharp Transitions Between Developmental Stages
+
 Downstream analysis of the Dictyostelium discoideum complete life cycle proteomics dataset was conducted in R version 4.3.3. All R scripts used in this project are provided in Source_code_Dicty_proteomics.txt and in the accompanying PDF file. All input files and analysis outputs are located in the Dicty_proteomics folder. The analysis codes were adapted and extended from Edelbroek et al. (2024) [1,2].
 
 Data
